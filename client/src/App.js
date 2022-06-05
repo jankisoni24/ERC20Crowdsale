@@ -78,6 +78,7 @@ class App extends Component {
       return <div>Loading Web3, accounts, and contract...</div>;
     }
     return (
+      //view
       <div className="App">
         <h1>Starbucks Cappucino Token Sale</h1>
         <p>Enable your account</p>
